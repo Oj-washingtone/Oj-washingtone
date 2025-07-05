@@ -11,7 +11,9 @@ My experience in the startup ecosystem has been both rewarding and challenging, 
 **Winner – UNESCO India–Africa Hackathon 2022**  
 **Category:** Agriculture – Soil Health  
 As part of a cross-continental team, I contributed to developing an innovative solution to monitor and improve soil health for sustainable agriculture.  
+My role focused on implementing AI models that analyzed soil data to provide actionable insights for farmers.  
 Our project was selected as a winner among 100+ international teams representing India and African nations.
+
 
 
 ### Get in touch:
