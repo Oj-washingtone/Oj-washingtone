@@ -6,9 +6,9 @@ My tech stack includes Node.js, Express, Python (Flask), Java (Spring Boot), Rea
 
 My experience in the startup ecosystem has been both rewarding and challenging, offering rapid growth opportunities, cross-functional collaboration, and the chance to wear multiple hats. It has sharpened my ability to adapt quickly, deliver under pressure, and build scalable solutions from the ground up—often with limited resources and tight timelines.
 
-### 🏆 Award
+### 🏆 Awards
 
-**Winner – UNESCO India–Africa Hackathon 2022**  
+- **Winner – UNESCO India–Africa Hackathon 2022**  
 **Category:** Agriculture – Soil Health  
 As part of a cross-continental team, I contributed to developing an innovative solution to monitor and improve soil health for sustainable agriculture.  
 My role focused on implementing AI models that analyzed soil data to provide actionable insights for farmers.  
