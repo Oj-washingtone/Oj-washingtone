@@ -6,7 +6,7 @@ My tech stack includes Node.js, Express, Python (Flask), Java (Spring Boot), Rea
 
 My experience in the startup ecosystem has been both rewarding and challenging, offering rapid growth opportunities, cross-functional collaboration, and the chance to wear multiple hats. It has sharpened my ability to adapt quickly, deliver under pressure, and build scalable solutions from the ground up—often with limited resources and tight timelines.
 
-### Current project
+### 🚀 Current project
 - I am currently building [Stowais](https://stowais.co.ke), a no-code e-commerce SaaS platform that empowers traders—especially those who typically sell through WhatsApp Status—to launch their own e-commerce websites quickly and affordably. 
 
 ### 🏆 Awards
