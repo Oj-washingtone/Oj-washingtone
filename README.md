@@ -6,6 +6,14 @@ My tech stack includes Node.js, Express, Python (Flask), Java (Spring Boot), Rea
 
 My experience in the startup ecosystem has been both rewarding and challenging, offering rapid growth opportunities, cross-functional collaboration, and the chance to wear multiple hats. It has sharpened my ability to adapt quickly, deliver under pressure, and build scalable solutions from the ground up—often with limited resources and tight timelines.
 
+### 🏆 Award
+
+**Winner – UNESCO India–Africa Hackathon 2022**  
+**Category:** Agriculture – Soil Health  
+As part of a cross-continental team, I contributed to developing an innovative solution to monitor and improve soil health for sustainable agriculture.  
+Our project was selected as a winner among 100+ international teams representing India and African nations.
+
+
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ow_jalango) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/washingtone-otieno-1157bb198/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ow_jalango) 
 
