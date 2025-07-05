@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Full-Stack Software Engineer with over 2 years of experience working in startup environments. I specialize in building robust and scalable backend systems, including RESTful APIs and database integrations, as well as developing secure and high-performance frontend applications...[Full bio](https://www.linkedin.com/in/washingtone-otieno-1157bb198/)
+I’m a Full-Stack Software Engineer with over 2+ years of experience working in startup environments. I specialize in building robust and scalable backend systems, including RESTful APIs and database integrations, as well as developing secure and high-performance frontend applications...[Full bio](https://www.linkedin.com/in/washingtone-otieno-1157bb198/)
 
 My tech stack includes Node.js, Express, Python (Flask), Java (Spring Boot), React.js, React Native, and AngularJS. 
 
