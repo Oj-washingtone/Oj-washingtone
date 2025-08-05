@@ -9,7 +9,7 @@ My experience in the startup ecosystem has been both rewarding and challenging, 
 ### 🚀 Current project
 - I am currently building [Stowais](https://stowais.co.ke), a no-code e-commerce SaaS platform that empowers traders—especially those who typically sell through WhatsApp Status—to launch their own e-commerce websites quickly and affordably. 
 
-### 🏆 Awards
+### 🏆 Achievements
 
 - **Winner – UNESCO India–Africa Hackathon 2022**  
 **Category:** Agriculture – Soil Health  
